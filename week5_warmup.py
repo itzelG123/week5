@@ -44,7 +44,7 @@ print(result)
 split_info=['python' , 'is' , 'fun']
 print(split_info[::-1])
 
-# Problem Set 3: String Methods
+# Problem Set 3: String MethodsWWWWWWWWWWWW
 # Upper & Lower:
 # Convert the following text to lowercase: 
 force="MAY THE FORCE BE WITH YOU."
@@ -88,3 +88,4 @@ print(phrase.find("Supercalifragilisticexpialidocious"))
 
 # b. Count the number of times the letter 'i' appears in the same word/phrase.
 print(len(phrase))
+print(phrase.count('i'))
